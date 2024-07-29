@@ -1,0 +1,29 @@
+:root {
+  --font-family-primary: "Poppins", sans-serif;
+  --font-family-secondary: "Rubik", sans-serif;
+
+  --text-primary-color: #111116;
+  --text-secondary-color: #6f6f76;
+  --text-tertiary-color: #ffffff;
+
+  --background-color-primary: #ffa502;
+  --background-color-secondary: #111116;
+  --background-color-tertiary: #2a2a31;
+  --background-color-quaternary: #c4c4c4;
+  --background-color-quinary: #ffffff;
+
+  --size-font-primary: 80px;
+  --size-font-secondary: 40px;
+  --size-font-tertiary: 30px;
+  --size-font-quaternary: 18px;
+  --size-font-quinary: 16px;
+  --size-font-senary: 12px;
+
+  --weight-font-primary: 700;
+  --weight-font-secondary: 600;
+  --weight-font-tertiary: 500;
+  --weight-font-quaternary: 400;
+
+  --radius-border-primary: 20px;
+  --radius-border-secondary: 15px;
+}
